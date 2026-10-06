@@ -1,0 +1,8 @@
+-std=c23
+-Iinclude
+-Wall
+-Wextra
+-Wpedantic
+-Wconversion
+-Wshadow
+-Wformat=2

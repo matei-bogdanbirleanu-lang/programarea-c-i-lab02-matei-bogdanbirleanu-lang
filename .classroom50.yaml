@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "programarea-c-i"
+assignment: "lab02"
+owner:
+  username: "matei-bogdanbirleanu-lang"
+  id: 335378238
+  accepted_at: "2026-10-06T05:51:31Z"
+source:
+  owner: "tuiasi-lab"
+  owner_id: 272471595
+  repo: "programarea-c-i-lab02-starter"
+  branch: "main"
